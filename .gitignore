@@ -1,0 +1,8 @@
+**/__pycache__
+**/wandb
+output
+# **/third_party
+hicodet/hico_20160224_det
+**.pth
+**.p
+third_party/
